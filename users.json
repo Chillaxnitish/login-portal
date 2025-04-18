@@ -1,6 +1,6 @@
 {
-  "user1": "pass1",
-  "user2": "pass2",
-  "user3": "pass3",
-  "user4": "pass4"
+  "user1": "pbkdf2:sha256:600000$mPGzWbzZ8yLaOqNv$629a4e6f2f38c4a5f70ed682bd2c5b6e6bd5f444e17f726763d5ab6599f46a1e",
+  "user2": "pbkdf2:sha256:600000$a4AAr5ybv2MDZqj4$305346de934f79a37271b3c0bba0f56df96c8819c62a241b3b9ab2074fcae442",
+  "user3": "pbkdf2:sha256:600000$RS8mSUT9tcVk9K7k$79efc0176be89a901355916d5391e2d1ef2a793b0a2d6c016ba6c3ac4863192e",
+  "user4": "pbkdf2:sha256:600000$DLHmu3fQGCwkw6EM$8f0b0cc5cf1edcb6f406ec07d5ce62c0e321f6d0f29a4c7a28e4018b5464c7da"
 }
